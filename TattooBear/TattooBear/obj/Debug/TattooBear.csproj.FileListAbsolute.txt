@@ -1,0 +1,14 @@
+D:\TattooBear\TattooBear\TattooBear\bin\Debug\TattooBear.exe.config
+D:\TattooBear\TattooBear\TattooBear\bin\Debug\TattooBear.exe
+D:\TattooBear\TattooBear\TattooBear\bin\Debug\TattooBear.pdb
+D:\TattooBear\TattooBear\TattooBear\obj\Debug\MainWindow.g.cs
+D:\TattooBear\TattooBear\TattooBear\obj\Debug\App.g.cs
+D:\TattooBear\TattooBear\TattooBear\obj\Debug\TattooBear_MarkupCompile.cache
+D:\TattooBear\TattooBear\TattooBear\obj\Debug\TattooBear_MarkupCompile.lref
+D:\TattooBear\TattooBear\TattooBear\obj\Debug\MainWindow.baml
+D:\TattooBear\TattooBear\TattooBear\obj\Debug\TattooBear.g.resources
+D:\TattooBear\TattooBear\TattooBear\obj\Debug\TattooBear.Properties.Resources.resources
+D:\TattooBear\TattooBear\TattooBear\obj\Debug\TattooBear.csproj.GenerateResource.Cache
+D:\TattooBear\TattooBear\TattooBear\obj\Debug\TattooBear.exe
+D:\TattooBear\TattooBear\TattooBear\obj\Debug\TattooBear.pdb
+D:\TattooBear\TattooBear\TattooBear\obj\Debug\TattooBear.csprojResolveAssemblyReference.cache
